@@ -31,3 +31,26 @@ The dataset used is from Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/
 
 
 ## How to Use This Repository
+### **1. Clone the Repository**  
+Open a terminal and run:  
+```bash
+git clone https://github.com/Sri-Amirdha-Sudha/customer-segmentation-walmart.git
+```
+### **2. Navigate to the Project Folder** 
+```bash
+cd customer-segmentation-walmart
+```
+### **3. Set Up a Virtual Environment (Optional but Recommended)** 
+```bash
+python -m venv env
+source env/bin/activate  # For Mac/Linux
+env\Scripts\activate     # For Windows
+```
+### **4. Install Required Libraries** 
+```bash
+pip install -r requirements.txt
+```
+### **5. Open the Jupyter Notebook** 
+```bash
+jupyter notebook Customer_Segmentation.ipynb
+```

@@ -2,7 +2,7 @@
 # Customer Segmentation Using Python and Machine Learning 
 
 ## Overview
-This project applies **customer segmentation** using **Python and machine learning** on the **Walmart dataset**. We use **K-Means clustering and RFM analysis** to classify customers into segments based on their purchasing behavior. To understand more about customer segmentation you can read my blog.
+This project applies **customer segmentation** using **Python and machine learning** on the **Walmart dataset**. We use **K-Means clustering and RFM analysis** to classify customers into segments based on their purchasing behavior. To understand more about customer segmentation you can read my [blog on Customer Segmentation](https://medium.com/@sriamirdhasudha/customer-segmentation-a-beginners-guide-to-understanding-your-customers-with-python-0af5de056917).
 
 ## Dataset
 The dataset used is from Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset)
